@@ -1,0 +1,145 @@
+record,sched,branch,service,revenue,cos,gross_profit
+403,2020-09-01,Beta,Restaurant,209,62,147
+407,2020-10-01,Beta,Restaurant,206,105,101
+411,2020-11-01,Beta,Restaurant,400,89,311
+415,2020-12-01,Beta,Restaurant,388,140,248
+289,2018-04-01,Omega,Specialty Shop,215,180,35
+291,2018-05-01,Lima,Hotel,296,95,201
+292,2018-05-01,Epsilon,Convenience Store,270,173,97
+293,2018-05-01,Omega,Specialty Shop,100,82,18
+295,2018-06-01,Lima,Hotel,385,71,314
+297,2018-06-01,Omega,Specialty Shop,188,160,28
+299,2018-07-01,Lima,Hotel,244,169,75
+301,2018-07-01,Omega,Specialty Shop,150,102,48
+303,2018-08-01,Lima,Hotel,243,56,187
+305,2018-08-01,Omega,Specialty Shop,190,182,8
+307,2018-09-01,Lima,Hotel,310,55,255
+309,2018-09-01,Omega,Specialty Shop,195,148,47
+311,2018-10-01,Lima,Hotel,394,166,228
+313,2018-10-01,Omega,Specialty Shop,138,128,10
+315,2018-11-01,Lima,Hotel,279,150,129
+317,2018-11-01,Omega,Specialty Shop,140,111,29
+319,2018-12-01,Lima,Hotel,235,79,156
+321,2018-12-01,Omega,Specialty Shop,119,77,42
+323,2019-01-01,Lima,Hotel,269,142,127
+325,2019-01-01,Omega,Specialty Shop,172,145,27
+327,2019-02-01,Lima,Hotel,316,132,184
+329,2019-02-01,Omega,Specialty Shop,152,78,74
+331,2019-03-01,Lima,Hotel,294,170,124
+333,2019-03-01,Omega,Specialty Shop,188,146,42
+335,2019-04-01,Lima,Hotel,223,61,162
+337,2019-04-01,Omega,Specialty Shop,168,126,42
+340,2019-05-01,Lima,Hotel,386,123,263
+306,2018-09-01,Beta,Restaurant,304,72,232
+310,2018-10-01,Beta,Restaurant,296,152,144
+314,2018-11-01,Beta,Restaurant,201,54,147
+318,2018-12-01,Beta,Restaurant,365,103,262
+322,2019-01-01,Beta,Restaurant,269,143,126
+326,2019-02-01,Beta,Restaurant,242,180,62
+334,2019-04-01,Beta,Restaurant,456,146,310
+339,2019-05-01,Beta,Restaurant,441,122,319
+288,2018-04-01,Epsilon,Convenience Store,164,161,3
+348,2019-07-01,Lima,Hotel,300,156,144
+350,2019-07-01,Omega,Specialty Shop,137,127,10
+352,2019-08-01,Lima,Hotel,385,66,319
+354,2019-08-01,Omega,Specialty Shop,176,88,88
+356,2019-09-01,Lima,Hotel,289,82,207
+358,2019-09-01,Omega,Specialty Shop,195,126,69
+360,2019-10-01,Lima,Hotel,210,163,47
+362,2019-10-01,Omega,Specialty Shop,230,198,32
+366,2019-11-01,Omega,Specialty Shop,215,118,97
+368,2019-12-01,Lima,Hotel,315,93,222
+370,2019-12-01,Omega,Specialty Shop,149,106,43
+372,2020-01-01,Lima,Hotel,341,178,163
+374,2020-01-01,Omega,Specialty Shop,142,113,29
+376,2020-02-01,Lima,Hotel,248,180,68
+377,2020-02-01,Epsilon,Convenience Store,166,92,74
+378,2020-02-01,Omega,Specialty Shop,159,130,29
+380,2020-03-01,Lima,Hotel,269,180,89
+381,2020-03-01,Epsilon,Convenience Store,204,63,141
+382,2020-03-01,Omega,Specialty Shop,176,155,21
+384,2020-04-01,Lima,Hotel,254,152,102
+385,2020-04-01,Epsilon,Convenience Store,206,136,70
+386,2020-04-01,Omega,Specialty Shop,199,108,91
+388,2020-05-01,Lima,Hotel,303,103,200
+389,2020-05-01,Epsilon,Convenience Store,225,181,44
+390,2020-05-01,Omega,Specialty Shop,178,55,123
+392,2020-06-01,Lima,Hotel,309,152,157
+393,2020-06-01,Epsilon,Convenience Store,322,197,125
+394,2020-06-01,Omega,Specialty Shop,170,120,50
+396,2020-07-01,Lima,Hotel,227,199,28
+397,2020-07-01,Epsilon,Convenience Store,267,58,209
+398,2020-07-01,Omega,Specialty Shop,152,92,60
+400,2020-08-01,Lima,Hotel,260,109,151
+401,2020-08-01,Epsilon,Convenience Store,194,164,30
+364,2019-11-01,Lima,Hotel,200,180,20
+330,2019-03-01,Beta,Restaurant,488,88,400
+274,2018-01-01,Beta,Restaurant,390,50,340
+278,2018-02-01,Beta,Restaurant,306,53,253
+282,2018-03-01,Beta,Restaurant,273,108,165
+296,2018-06-01,Epsilon,Convenience Store,269,75,194
+300,2018-07-01,Epsilon,Convenience Store,199,194,5
+304,2018-08-01,Epsilon,Convenience Store,215,193,22
+308,2018-09-01,Epsilon,Convenience Store,283,134,149
+312,2018-10-01,Epsilon,Convenience Store,344,68,276
+316,2018-11-01,Epsilon,Convenience Store,287,131,156
+320,2018-12-01,Epsilon,Convenience Store,258,75,183
+324,2019-01-01,Epsilon,Convenience Store,197,117,80
+286,2018-04-01,Beta,Restaurant,393,154,239
+328,2019-02-01,Epsilon,Convenience Store,202,107,95
+332,2019-03-01,Epsilon,Convenience Store,194,71,123
+336,2019-04-01,Epsilon,Convenience Store,295,88,207
+341,2019-05-01,Epsilon,Convenience Store,228,139,89
+290,2018-05-01,Beta,Restaurant,214,59,155
+294,2018-06-01,Beta,Restaurant,484,124,360
+298,2018-07-01,Beta,Restaurant,391,197,194
+302,2018-08-01,Beta,Restaurant,256,123,133
+275,2018-01-01,Lima,Hotel,341,186,155
+276,2018-01-01,Epsilon,Convenience Store,180,167,13
+277,2018-01-01,Omega,Specialty Shop,105,93,12
+279,2018-02-01,Lima,Hotel,386,99,287
+280,2018-02-01,Epsilon,Convenience Store,350,111,239
+281,2018-02-01,Omega,Specialty Shop,150,122,28
+283,2018-03-01,Lima,Hotel,355,192,163
+284,2018-03-01,Epsilon,Convenience Store,289,69,220
+285,2018-03-01,Omega,Specialty Shop,171,130,41
+287,2018-04-01,Lima,Hotel,209,131,78
+344,2019-06-01,Lima,Hotel,380,163,217
+346,2019-06-01,Omega,Specialty Shop,181,63,118
+402,2020-08-01,Omega,Specialty Shop,167,63,104
+404,2020-09-01,Lima,Hotel,330,95,235
+406,2020-09-01,Omega,Specialty Shop,182,164,18
+408,2020-10-01,Lima,Hotel,348,152,196
+409,2020-10-01,Epsilon,Convenience Store,180,139,41
+410,2020-10-01,Omega,Specialty Shop,172,151,21
+413,2020-11-01,Epsilon,Convenience Store,286,134,152
+414,2020-11-01,Omega,Specialty Shop,163,96,67
+416,2020-12-01,Lima,Hotel,280,79,201
+417,2020-12-01,Epsilon,Convenience Store,195,118,77
+418,2020-12-01,Omega,Specialty Shop,140,110,30
+342,2019-05-01,Omega,Specialty Shop,200,192,8
+405,2020-09-01,Epsilon,Convenience Store,203,199,4
+345,2019-06-01,Epsilon,Convenience Store,330,73,257
+349,2019-07-01,Epsilon,Convenience Store,151,138,13
+353,2019-08-01,Epsilon,Convenience Store,255,62,193
+357,2019-09-01,Epsilon,Convenience Store,240,179,61
+361,2019-10-01,Epsilon,Convenience Store,312,169,143
+365,2019-11-01,Epsilon,Convenience Store,236,116,120
+369,2019-12-01,Epsilon,Convenience Store,214,82,132
+373,2020-01-01,Epsilon,Convenience Store,200,177,23
+343,2019-06-01,Beta,Restaurant,244,100,144
+347,2019-07-01,Beta,Restaurant,411,95,316
+351,2019-08-01,Beta,Restaurant,260,168,92
+355,2019-09-01,Beta,Restaurant,329,64,265
+359,2019-10-01,Beta,Restaurant,448,70,378
+363,2019-11-01,Beta,Restaurant,379,149,230
+367,2019-12-01,Beta,Restaurant,238,180,58
+371,2020-01-01,Beta,Restaurant,269,179,90
+375,2020-02-01,Beta,Restaurant,453,64,389
+379,2020-03-01,Beta,Restaurant,303,116,187
+383,2020-04-01,Beta,Restaurant,361,107,254
+387,2020-05-01,Beta,Restaurant,312,109,203
+391,2020-06-01,Beta,Restaurant,385,63,322
+395,2020-07-01,Beta,Restaurant,423,118,305
+399,2020-08-01,Beta,Restaurant,248,128,120
+412,2020-11-01,Lima,Hotel,324,110,214

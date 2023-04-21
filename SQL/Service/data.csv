@@ -1,0 +1,146 @@
+﻿record,sched,Branch,Service,Revenue,COS,Gross Profit
+274,012018,Eta,Restaurant,390,50,340
+275,012018,Lima,Hotel,341,186,155
+276,012018,Epsilon,Convenience Store,180,167,13
+277,012018,Omega,Specialty Shop,105,93,12
+278,022018,Eta,Restaurant,306,53,253
+279,022018,Lima,Hotel,386,99,287
+280,022018,Epsilon,Convenience Store,350,111,239
+281,022018,Omega,Specialty Shop,150,122,28
+282,032018,Eta,Restaurant,273,108,165
+283,032018,Lima,Hotel,355,192,163
+284,032018,Epsilon,Convenience Store,289,69,220
+285,032018,Omega,Specialty Shop,171,130,41
+286,042018,Eta,Restorant,393,154,239
+287,042018,Lima,Hotel,209,131,78
+288,042018,Epsilon,Convenience Store,164,161,
+289,042018,Omega,Specialty Shop,215,180,35
+290,052018,Eta,Restorant,214,59,155
+291,052018,Lima,Hotel,296,95,201
+292,052018,Epsilon,Convenience Store,270,173,97
+293,052018,Omega,Specialty Shop,100,82,18
+294,062018,Eta,Restorant,484,124,360
+295,062018,Lima,Hotel,385,71,314
+296,062018,Epsilon,Conviinience Store,269,75,194
+297,062018,Omega,Specialty Shop,188,160,28
+298,072018,Eta,Restorant,391,197,194
+299,072018,Lima,Hotel,244,169,75
+300,072018,Epsilon,Conviinience Store,199,194,5
+301,072018,Omega,Specialty Shop,150,102,48
+302,082018,Eta,Restorant,256,123,133
+303,082018,Lima,Hotel,243,56,187
+304,082018,Epsilon,Conviinience Store,215,193,22
+305,082018,Omega,Specialty Shop,190,182,8
+306,092018,Eta,Restorant,304,72,232
+307,092018,Lima,Hotel,310,55,255
+308,092018,Epsilon,Conviinience Store,283,134,149
+309,092018,Omega,Specialty Shop,195,148,47
+310,102018,Eta,Restorant,296,152,144
+311,102018,Lima,Hotel,394,166,228
+312,102018,Epsilon,Conviinience Store,344,68,276
+313,102018,Omega,Specialty Shop,138,128,10
+314,112018,Eta,Restorant,201,54,147
+315,112018,Lima,Hotel,279,150,129
+316,112018,Epsilon,Conviinience Store,287,131,156
+317,112018,Omega,Specialty Shop,140,111,29
+318,122018,Eta,Restorant,365,103,262
+319,122018,Lima,Hotel,235,79,156
+320,122018,Epsilon,Conviinience Store,258,75,183
+321,122018,Omega,Specialty Shop,119,77,42
+322,012019,Eta,Restorant,269,143,126
+323,012019,Lima,Hotel,269,142,127
+324,012019,Epsilon,Conviinience Store,197,117,80
+325,012019,Omega,Specialty Shop,172,145,27
+326,022019,Eta,Restorant,242,180,62
+327,022019,Lima,Hotel,316,132,184
+328,022019,Epsilon,Conviinience Store,202,107,95
+329,022019,Omega,Specialty Shop,152,78,74
+330,032019,Eta,Restorant,488,88,400
+331,032019,Lima,Hotel,294,170,124
+332,032019,Epsilon,Conviinience Store,194,71,123
+333,032019,Omega,Specialty Shop,188,146,42
+334,042019,Eta,Restorant,456,146,310
+335,042019,Lima,Hotel,223,61,162
+336,042019,Epsilon,Conviinience Store,295,88,207
+337,042019,Omega,Specialty Shop,168,126,42
+338,052019,Eta,Restorant,441,122,319
+339,052019,Eta,Restorant,441,122,319
+340,052019,Lima,Hotel,386,123,263
+341,052019,Epsilon,Conviinience Store,228,139,89
+342,052019,Omega,Specialty Shop,200,192,
+343,062019,Eta,Restorant,244,100,144
+344,062019,Lima,Hotel,380,163,217
+345,062019,Epsilon,Conviinience Store,330,73,257
+346,062019,Omega,Specialty Shop,181,63,118
+347,072019,Eta,Restorant,411,95,316
+348,072019,Lima,Hotel,300,156,144
+349,072019,Epsilon,Conviinience Store,151,138,13
+350,072019,Omega,Specialty Shop,137,127,10
+351,082019,Eta,Restorant,260,168,92
+352,082019,Lima,Hotel,385,66,319
+353,082019,Epsilon,Conviinience Store,255,62,193
+354,082019,Omega,Specialty Shop,176,88,88
+355,092019,Eta,Restorant,329,64,265
+356,092019,Lima,Hotel,289,82,207
+357,092019,Epsilon,Conviinience Store,240,179,61
+358,092019,Omega,Specialty Shop,195,126,69
+359,102019,Eta,Restorant,448,70,378
+360,102019,Lima,Hotel,210,163,47
+361,102019,Epsilon,Conviinience Store,312,169,143
+362,102019,Omega,Specialty Shop,230,198,32
+363,112019,Eta,Restorant,379,149,230
+364,112019,Lima,Hotel,200,180,20000
+365,112019,Epsilon,Conviinience Store,236,116,120
+366,112019,Omega,Specialty Shop,215,118,97
+367,122019,Eta,Restorant,238,180,58
+368,122019,Lima,Hotel,315,93,222
+369,122019,Epsilon,Conviinience Store,214,82,132
+370,122019,Omega,Specialty Shop,149,106,43
+371,012020,Eta,Restorant,269,179,90
+372,012020,Lima,Hotel,341,178,163
+373,012020,Epsilon,Conviinience Store,200,177,23
+374,012020,Omega,Specialty Shop,142,113,29
+375,022020,Eta,Restorant,453,64,389
+376,022020,Lima,Hotel,248,180,68
+377,022020,Epsilon,Convenience Store,166,92,74
+378,022020,Omega,Specialty Shop,159,130,29
+379,032020,Eta,Restorant,303,116,187
+380,032020,Lima,Hotel,269,180,89
+381,032020,Epsilon,Convenience Store,204,63,141
+382,032020,Omega,Specialty Shop,176,155,21
+383,042020,Eta,Restorant,361,107,254
+384,042020,Lima,Hotel,254,152,102
+385,042020,Epsilon,Convenience Store,206,136,70
+386,042020,Omega,Specialty Shop,199,108,91
+387,052020,Eta,Restorant,312,109,203
+388,052020,Lima,Hotel,303,103,200
+389,052020,Epsilon,Convenience Store,225,181,44
+390,052020,Omega,Specialty Shop,178,55,123
+391,062020,Eta,Restorant,385,63,322
+392,062020,Lima,Hotel,309,152,157
+393,062020,Epsilon,Convenience Store,322,197,125
+394,062020,Omega,Specialty Shop,170,120,50
+395,072020,Eta,Restorant,423,118,305
+396,072020,Lima,Hotel,227,199,28
+397,072020,Epsilon,Convenience Store,267,58,209
+398,072020,Omega,Specialty Shop,152,92,60
+399,082020,Eta,Restorant,248,128,120
+400,082020,Lima,Hotel,260,109,151
+401,082020,Epsilon,Convenience Store,194,164,30
+402,082020,Omega,Specialty Shop,167,63,104
+403,092020,Eta,Restorant,209,62,147
+404,092020,Lima,Hotel,330,95,235
+405,092020,Epsilon,Convenience Store,203,199,
+406,092020,Omega,Specialty Shop,182,164,18
+407,102020,Eta,Restorant,206,105,101
+408,102020,Lima,Hotel,348,152,196
+409,102020,Epsilon,Convenience Store,180,139,41
+410,102020,Omega,Specialty Shop,172,151,21
+411,112020,Eta,Restorant,400,89,311
+412,112020,Lima,Hotel,324,110,2500
+413,112020,Epsilon,Convenience Store,286,134,152
+414,112020,Omega,Specialty Shop,163,96,67
+415,122020,Eta,Restorant,388,140,248
+416,122020,Lima,Hotel,280,79,201
+417,122020,Epsilon,Convenience Store,195,118,77
+418,122020,Omega,Specialty Shop,140,110,30
