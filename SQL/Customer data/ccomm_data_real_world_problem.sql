@@ -15,7 +15,7 @@ SELECT SUM(customer_churned)/COUNT(customer_churned)*100
 FROM ccomm_data;
 --Answer: 40%
 
---Is there any difference in dropped dropped_calls
+--Is there any difference in dropped_calls
 --between customers who churn and those who stay 
 --with us?
 
