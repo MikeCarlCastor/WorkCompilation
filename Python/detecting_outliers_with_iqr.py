@@ -71,22 +71,3 @@ tabular_results = tabulate(results_df, headers='keys', tablefmt='fancy_grid')
 
 print(tabular_results)
 
-from tabulate import tabulate
-
-results = [
-    ["Min", min_value],
-    ["Q1", q1],
-    ["Median", median],
-    ["Q3", q3],
-    ["Max", max_value],
-    ["Mean", mean_value],
-    ["IQR", iqr_value],
-    ["Lower Limit", lower_limit_value],
-    ["Upper Limit", upper_limit_value]
-]
-
-# Convert results to a tabular format
-tabular_results = tabulate(results, headers=["Statistic", "Value"], tablefmt="fancy_grid")
-
-print(tabular_results)
-
