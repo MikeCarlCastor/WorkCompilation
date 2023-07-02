@@ -131,6 +131,6 @@ SELECT
   COUNT(*) FILTER (WHERE message_number IS NULL) AS message_number_count
 FROM communications_data;
 
---No nore NULLS--
+--No more NULLS--
 --Now let's load the data to power BI--
 
