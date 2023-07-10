@@ -11,7 +11,7 @@ Original file is located at
 data_input = input("Your dataset: ")
 data_list = data_input.split(',')
 
-dataset = [int(data) for data in data_list]
+dataset = [float(data) for data in data_list]
 
 # calculate min value
 min_value = min(dataset)
